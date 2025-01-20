@@ -12,5 +12,3 @@
 </div><br/>
 
 - Cursando Análise e Desenvolvimento de Sistemas 🎓
-- Explorando Análise de Dados e Python 📊
-- Aprendendo SQL, Power BI e Machine Learnig 💻
