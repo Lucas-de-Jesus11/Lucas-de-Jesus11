@@ -14,4 +14,4 @@
 
 </div><br/>
 
-- Cursando Análise e Desenvolvimento de Sistemas 🎓
+- Cursando Técnico em Desenvolvimento de Sistemas 🎓
